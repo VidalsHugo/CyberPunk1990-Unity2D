@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: dcaa5426d7c94794eaec7a07708a245d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NightBorne 2_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcbf96122160944ba9e7065f59fcbe
+      internalID: 464254274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne 2_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faba1b24b396df4b94714c14e953cb6
+      internalID: 502290026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne 2_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87d814181ad632449ed3cf325c422cc
+      internalID: -1460636580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne 2_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fabbae43aad24da3b7513b7b0d505
+      internalID: 1933699299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne 2_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb479d6d41825440931115c2a92675a
+      internalID: -1811548620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NightBorne 2_0: 165827900
+      NightBorne 2_1: -1816328515
+      NightBorne 2_10: 896083677
+      NightBorne 2_11: -2019070379
+      NightBorne 2_12: 581181941
+      NightBorne 2_13: 184957846
+      NightBorne 2_14: -518408562
+      NightBorne 2_15: -1496804023
+      NightBorne 2_16: -385093530
+      NightBorne 2_17: -2089216652
+      NightBorne 2_18: -1667708070
+      NightBorne 2_19: -638005076
+      NightBorne 2_2: 1403365973
+      NightBorne 2_20: -1790341495
+      NightBorne 2_21: 2135924863
+      NightBorne 2_22: 46079081
+      NightBorne 2_23: 1872992696
+      NightBorne 2_24: -1041050379
+      NightBorne 2_25: 1594528202
+      NightBorne 2_26: 904677181
+      NightBorne 2_27: 87512350
+      NightBorne 2_28: 464254274
+      NightBorne 2_29: 502290026
+      NightBorne 2_3: 1341659710
+      NightBorne 2_30: -1460636580
+      NightBorne 2_31: 1933699299
+      NightBorne 2_32: -1811548620
+      NightBorne 2_33: -2002528000
+      NightBorne 2_34: -476782008
+      NightBorne 2_35: -424729417
+      NightBorne 2_36: 1376810806
+      NightBorne 2_37: 2076359439
+      NightBorne 2_38: -542814437
+      NightBorne 2_39: -1533456290
+      NightBorne 2_4: -1477635481
+      NightBorne 2_40: 2025205371
+      NightBorne 2_41: 767525096
+      NightBorne 2_42: -755992400
+      NightBorne 2_43: -902346674
+      NightBorne 2_44: 1464361505
+      NightBorne 2_45: 1966539779
+      NightBorne 2_46: 1110471245
+      NightBorne 2_47: -703076331
+      NightBorne 2_48: 703471383
+      NightBorne 2_49: 478312494
+      NightBorne 2_5: 1148312924
+      NightBorne 2_50: 1568017825
+      NightBorne 2_51: -1200845654
+      NightBorne 2_52: -937806940
+      NightBorne 2_53: 1646470626
+      NightBorne 2_54: 856714679
+      NightBorne 2_55: -2130410890
+      NightBorne 2_56: -1947762911
+      NightBorne 2_57: -411175576
+      NightBorne 2_6: 2022300480
+      NightBorne 2_7: 20226987
+      NightBorne 2_8: -2104985504
+      NightBorne 2_9: -1545295095
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
