@@ -24,9 +24,9 @@ boss final.
 </h1>
 
 <br>
-<img width="320" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/3461d109-ec19-432a-afd7-2ad2fff89391">
-<img width="320" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/d3132cd6-2f8c-4bd9-b7fc-9fb3b9791e78">
-<img width="320" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/a9c1e634-9c55-408a-b421-bcbf1df02f91">
+<img width="220" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/3461d109-ec19-432a-afd7-2ad2fff89391">
+<img width="220" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/d3132cd6-2f8c-4bd9-b7fc-9fb3b9791e78">
+<img width="220" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/a9c1e634-9c55-408a-b421-bcbf1df02f91">
 <br>
 <br>
 <h2>
@@ -54,9 +54,9 @@ envolvente.
 
 <br>
 
-<img width="320" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/b80a56ba-de5e-42a1-8420-89b8a0bb5ff6">
-<img width="320" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/42e0de55-e858-46d6-b1f7-8695c81b3d28">
-<img width="320" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/1f7862db-0d83-494a-84ae-d82c2fe11257">
+<img width="220" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/b80a56ba-de5e-42a1-8420-89b8a0bb5ff6">
+<img width="220" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/42e0de55-e858-46d6-b1f7-8695c81b3d28">
+<img width="220" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/1f7862db-0d83-494a-84ae-d82c2fe11257">
 
 <br>
 <br>
@@ -80,8 +80,8 @@ controles precisos das fontes de luz, sombras dinâmicas e iluminação adaptáv
 <br>
 
 
-<img align="center" width="320" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/b12214f6-c18e-4ceb-8955-b7d640ebfc16">
-<img align="right" width="320" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/4cd1e6db-ef8b-4160-85b4-9eb326ad1382">
+<img align="center" width="220" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/b12214f6-c18e-4ceb-8955-b7d640ebfc16">
+<img align="right" width="220" height="190" src="https://github.com/VidalsHugo/CyberPunk1990-Unity2D/assets/87623017/4cd1e6db-ef8b-4160-85b4-9eb326ad1382">
 
 <br>
 <br>
