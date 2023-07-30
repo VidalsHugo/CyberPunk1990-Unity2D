@@ -22,7 +22,6 @@ public class EnemyNightBorne : MonoBehaviour
     {
         if(isAlive){
             currentHealth -= damage;
-            // Play hurt animation
             animator.SetTrigger("Hurt");
         }
         
