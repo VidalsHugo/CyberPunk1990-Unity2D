@@ -29,7 +29,6 @@ public class PlayerHP : MonoBehaviour
 	{
         Debug.Log("I died!");
         
-        // Play death animation
         animator.SetBool("IsDead", true);
         Rigidbody2D rb2D = GetComponent<Rigidbody2D>();
         rb2D.constraints = RigidbodyConstraints2D.FreezeAll;
@@ -38,7 +37,6 @@ public class PlayerHP : MonoBehaviour
 	}
     IEnumerator DisableAfterDeathAnimation()
     {
-        // Wait for the death animation to finish playing
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length+3);
         this.enabled = false;
         gameObject.SetActive(false);
