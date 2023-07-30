@@ -4,6 +4,7 @@
 </h1>
 <p align="center">
   Download para jogar: https://tisuke01.itch.io/cyberpunk-1990
+  <br>
   Video gameplay: https://youtu.be/5NIhP6RVJW4
 </p>
 
