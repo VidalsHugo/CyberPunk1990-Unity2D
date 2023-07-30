@@ -3,9 +3,10 @@
   CyberPunk1990-Unity2D
 </h1>
 <p align="center">
-  Download para jogar: https://tisuke01.itch.io/cyberpunk-1990
+  <a href="https://tisuke01.itch.io/cyberpunk-1990" target="_blank">>>Download para jogar<<</a>
   <br>
-  Video gameplay: https://youtu.be/5NIhP6RVJW4
+  <a href="https://youtu.be/5NIhP6RVJW4" target="_blank">>>Video gameplay<<</a>
+   
 </p>
 
 <h1 align="center">
