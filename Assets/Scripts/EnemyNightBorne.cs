@@ -11,7 +11,6 @@ public class EnemyNightBorne : MonoBehaviour
     public bool isAlive = true;
     private Rigidbody2D rb;
 
-    // Start is called before the first frame update
     void Start()
     {
         currentHealth = maxHealth;
@@ -37,22 +36,18 @@ public class EnemyNightBorne : MonoBehaviour
     {
         Debug.Log("Enemy died!");
 
-        // Play death animation
         animator.SetBool("IsDead", true);
 
         GetComponent<BoxCollider2D>().enabled = false;
         rb.constraints = RigidbodyConstraints2D.FreezePosition;
 
-        // Disable the script after a short delay (enough to let the death animation finish)
         StartCoroutine(DisableAfterDeathAnimation());
     }
 
     IEnumerator DisableAfterDeathAnimation()
     {
-        // Wait for the death animation to finish playing
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length+3);
 
-        // Disable the script and the enemy object
         this.enabled = false;
         gameObject.SetActive(false);
         SceneManager.LoadScene(4);
